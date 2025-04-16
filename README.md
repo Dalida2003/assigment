@@ -29,7 +29,7 @@ This project explores the dataset **"Main indicators of livestock development in
    - Bar charts for top 10 livestock products
 
 ## Code
-See the full analysis in project.ipynb
+See the full analysis in [code](project.ipynb)
 
 ## 📸 Screenshots
 
