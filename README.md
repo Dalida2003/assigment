@@ -28,6 +28,9 @@ This project explores the dataset **"Main indicators of livestock development in
    - Histograms of production volume
    - Bar charts for top 10 livestock products
 
+## Code
+See the full analysis in project.ipynb
+
 ## 📸 Screenshots
 
 ![Histogram](images/histogram.png)
